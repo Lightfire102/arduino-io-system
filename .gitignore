@@ -1,13 +1,24 @@
-.DS_Store
-Thumbs.db
-*.log
-*.tmp
-*.o
-*.obj
-*.exe
+# PlatformIO
+.pio/
+
+# Arduino IDE
 *.elf
 *.hex
 *.bin
+
+# Build artifacts
+*.o
+*.map
+
+# Logs
+*.log
+
+# Editor files
 .vscode/
 .idea/
-firmware/.pio/
+*.swp
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
