@@ -1,6 +1,3 @@
-https://github.com/Lightfire102/arduino-io-system/issues/1#issue-3777462910
-
-
 ## arduino-io-system
 This project shows the evolution of a basic Arduino GPIO output (blinking a single LED) into a fully functional input/output system using multiple LEDs and buttons, ending with a partial Simon memory game. The point of this was for learning system growth, modular firmware structures and debugging using serial output. 
 # Arduino I/O System (Blink → Simon Game) with Serial Debugging
@@ -70,3 +67,7 @@ Key modules:
 
 ## Future Improvements
 - After completing this project, one thing I would change are the type of wires I used. I was annoyed by the messiness of the wiring and how long they were. So if I was to redo this project, I would change the type of wires I would use and use a wire cutter for more exact wiring length for a cleaner setup. 
+
+
+https://github.com/user-attachments/assets/77d217d4-e4e7-4c52-8d5b-dc160ce37fb6
+
